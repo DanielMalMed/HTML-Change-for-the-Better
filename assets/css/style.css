@@ -17,6 +17,7 @@ main,
 .btn1 {
     color: green;
     background-color: red;
+    text-align: center;
 }
 
 .btn2 {
